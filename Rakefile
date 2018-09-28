@@ -1,4 +1,4 @@
-desc "Install the workflow to your services folder, under Applications/Safari"
+desc "Install the workflow to your services folder"
 task :install do
   puts "Copying copy_safari_url.workflow to your services folder"
   output = "~/Library/Services"
